@@ -24,6 +24,5 @@ This repository contains my personal Neovim configuration, designed for a powerf
 - [LSP Zero](https://lsp-zero.netlify.app/docs/getting-started.html) - Easy setup for Language Server Protocol
 - [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig/tree/master) - Collection of common configurations for Neovim's built-in LSP client
 
-## License
-
-This configuration is available under the MIT License.
+## Shift 
+- Shifted to lazy vim.
